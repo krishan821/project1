@@ -1,0 +1,55 @@
+.first {
+    background-color: #e3fdfd;
+    font-family: 'Merriweather', serif;
+    
+}
+h1{
+    font-size: 50px;
+    margin: 0;
+    padding-top: 50px;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    margin: 0;
+    text-align: center;
+    background-color: #cbf1f5;
+    
+}
+.profilephoto{
+    position: relative;
+    padding-left: 50px;
+    width: 240px;
+    padding-top: 50px;
+}
+.middle{
+    background-color: #cbf1f5;
+}
+.photoskills{
+    width: 25%;
+    padding-top: 20px;
+    float: left;
+
+}
+.phototool{
+    width: 25%;
+    float: left;
+}
+.photopython{
+    width: 25%;
+    float: left;
+}
+.skill-row
+{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+    
+
